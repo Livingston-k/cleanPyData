@@ -1,9 +1,16 @@
 from setuptools import setup, find_packages
+from pathlib import Path
+
+# Read the contents of your README file
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='cleanPyData',
-    version='0.1.0',
+    version='0.1.2',
     description='A package for data cleaning and preprocessing',
+    long_description=long_description,
+    long_description_content_type='text/markdown',  
     author='Kaddu Livingstone',
     author_email='kaddulivingston@gmail.com',
     url='https://github.com/Livingston-k/cleanPyData',
