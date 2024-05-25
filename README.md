@@ -16,6 +16,7 @@ cleanPyData is a robust and easy-to-use Python package designed to streamline th
 - Python
 - Pandas
 - NumPy
+- sklearn
 
 ## Getting Started
 

@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='cleanPyData',
-    version='0.1.7',  # Increment the version number
+    version='0.1.8',  # Increment the version number
     description='A package for data cleaning and preprocessing',
     long_description=long_description,
     long_description_content_type='text/markdown',
