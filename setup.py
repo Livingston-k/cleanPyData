@@ -7,10 +7,10 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='cleanPyData',
-    version='0.1.2',
+    version='0.1.7',  # Increment the version number
     description='A package for data cleaning and preprocessing',
     long_description=long_description,
-    long_description_content_type='text/markdown',  
+    long_description_content_type='text/markdown',
     author='Kaddu Livingstone',
     author_email='kaddulivingston@gmail.com',
     url='https://github.com/Livingston-k/cleanPyData',
