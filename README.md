@@ -94,5 +94,5 @@ Project Link: [https://github.com/Livingston-k/cleanPyData](https://github.com/L
 
 ## Follow Me
 
-- [Follow me on X](https://x.com/kaddulivingstone)
+- [Follow me on X](https://x.com/KadduLivingston)
 - [Follow me on LinkedIn](https://www.linkedin.com/in/kaddu-livingstone/)
